@@ -1,0 +1,9 @@
+{
+  "name": "menv",
+  "version": "1.0.0",
+  "description": "MENV (Mongo, Express, Node, VueJS), Easily build full stack javascript web",
+  "main": "app.js",
+  "repository": "git@github.com:lucduong/menv.git",
+  "author": "Luc <luc@ltv.vn>",
+  "license": "MIT"
+}
